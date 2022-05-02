@@ -1,5 +1,4 @@
 # Password-Generator
-
 numbers() :
   Contents: 
     nums: list of digits
@@ -14,12 +13,12 @@ upp_letter():
     upper : list of upper case alphabets
       return type: It returns a random alphabet in between A - Z
       
- special():
+special():
   Contents:
     special_char: list of special characters
       return typre : It returns a random special character from the list 'special_char'
       
- password_gen():
+password_gen():
   Arguements : Length of the passowrd
   Constraints: Length of the password should be greater than or equal to 8
     return type: It returns a password of given length.
