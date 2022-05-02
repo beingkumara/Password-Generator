@@ -5,7 +5,8 @@ numbers() :
   nums: list of digits
   
   return type: It returns a random integer in the range 0 - 9
-
+  
+ ---------------------------------------------------------------
 
 low_letters():
 
@@ -14,7 +15,8 @@ low_letters():
   lower: list of lower case alphabets
 
   return type: It returns a random alphabet in between a - z
-      
+
+-----------------------------------------------------------------
 
 upp_letter():
 
@@ -24,7 +26,7 @@ upp_letter():
 
   return type: It returns a random alphabet in between A - Z
       
-
+-------------------------------------------------------------------
 special():
 
   Contents:
@@ -33,7 +35,7 @@ special():
 
   return typre : It returns a random special character from the list 'special_char'
 
-
+----------------------------------------------------------------------
 
 password_gen():
 
@@ -43,6 +45,6 @@ password_gen():
 
   return type: It returns a password of given length.
 
-
+-------------------------------------------------------------------------
 The code will write the length of the password and the password that was generated during the process to a text file. If the length of the password is less than 8, the code prompts the user untill the length of the password given by the user is greater than or equal to 8.
   
