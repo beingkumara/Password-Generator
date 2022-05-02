@@ -37,7 +37,7 @@ special():
 
 ----------------------------------------------------------------------
 
-password_gen():
+password_gen(length of the password):
 
   Arguements : Length of the passowrd
 
